@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Hi wotld 
-=======
-Hello world2
->>>>>>> flo2
 Hello world
 
 
